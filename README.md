@@ -1,4 +1,4 @@
 # TravelNet
 A Programming class assignment 
-#Purpose
+# Purpose
 Implement a Travel network using a binary search Tree
